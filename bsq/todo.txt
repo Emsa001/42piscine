@@ -1,0 +1,6 @@
+x variable row length (fixed size now)
+x proper parsing that checks for errors, and doesn't crash
+x free and handle memory correctly
+x remove color
+- norminette
+- cflags

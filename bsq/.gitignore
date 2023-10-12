@@ -1,0 +1,6 @@
+bsq
+a.out
+*.o
+*.swp
+test.c
+test.map

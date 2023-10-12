@@ -1,0 +1,8 @@
+auto_molinette
+c_other
+.vscode
+*/.git
+*/.vscode
+*/.out
+*/.o
+*/user_exe
